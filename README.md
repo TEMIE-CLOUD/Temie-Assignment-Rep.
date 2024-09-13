@@ -37,3 +37,8 @@ In summary, my approach to hosting a simple web application on azure involves:
 * Saving cost with cost-effective services and auto scaling 
 * Scaling up with a scalable architecture and load balancing 
 * Security my app with AAD, encryption and monitoring.
+* ![JPEG image 2](https://github.com/user-attachments/assets/d5b16c13-a63c-4170-a607-c13427c89417)
+![JPEG image](https://github.com/user-attachments/assets/3c493886-303b-481d-a924-7a4734633c1e)
+![JPEG image 3](https://github.com/user-attachments/assets/8dd7da26-2572-4e39-acd2-09344bc1ca1d)
+![JPEG image 4 (1)](https://github.com/user-attachments/assets/07c06bd4-8b1b-4ec0-9a02-df9f0a569029)
+
